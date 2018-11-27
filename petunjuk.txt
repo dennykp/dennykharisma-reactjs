@@ -1,0 +1,19 @@
+Petunjuk ----
+Bahan yang digunakan:
+1. web pack React js, node js(server js),vs code(editor)
+2. react js - pendukung- include:
+	-material ui
+	-babel
+	-scss
+	-google font
+	-firebase(signin,signup)
+3. model pemrograman yang digunakan = jsx (read javascript with combine html, seperti XML)
+4. fungsi pokok yang saya gunakan (app.js)
+5. folder yang saya gunakan - (Kapanlagi)
+
+cara running app: 
+1. masuk directory project
+2. ketikan npm start
+3. login setelah masuk project :
+	- email   : admin@gmail.com
+	- password: admin123
